@@ -1,0 +1,24 @@
+{
+	"User": [
+		{
+			"name":"Shubham",
+			"email":"sdalwani96@gmail.com"
+		},
+		{
+			"name":"Anshul",
+			"email":"anshultambe@gmail.com"
+		},
+		{
+			"name":"Shivam",
+			"email":"shivam@gmail.com"
+		},
+		{
+			"name":"Mayank",
+			"email":"Mayank@gmail.com"
+		},
+		{
+			"name":"Khoshant",
+			"email":"Khoshant@gmail.com"
+		}
+	]
+}

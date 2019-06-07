@@ -1,0 +1,1 @@
+Hello, welcome to our Website, here we are learning how to build websites using JavaScript, AJAX and JQuery. Remember this website is for learning purpose only. It doesn't have connection with any real life live project and we do not mean to harm anyone. No human or animals were harmed during creation of this website. Thank you. :-)
